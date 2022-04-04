@@ -95,8 +95,8 @@ namespace Ejercicio06CentroEscolar
 
             else
             {
-                if (Lista.Count() > 0) //Que existan alumnos 
-                {
+                
+                
                     string datos = "";   //me acabo de cargar el crear alumnos asi que no se si esta bien esto
 
                     foreach (tAlumno alumno in Lista)
@@ -106,9 +106,10 @@ namespace Ejercicio06CentroEscolar
                             datos += alumno.mostrarDatos() + "\n";
                     }
 
-                    
 
-                }
+                    texto = datos;
+                
+                
             }
 
             return texto;

@@ -28,13 +28,13 @@ namespace Ejercicio06CentroEscolar
                 alumno.Nombre = nombre;
                 alumno.DNI = dni;
                 alumno.Telefono = telefono;
-                string curso;
-                do
+                string curso = Interaction.InputBox("Introduzca el curso.");
+                /*do
                 {
                     curso = Interaction.InputBox("Introduzca el curso.");
 
                 } while (!registrado(curso));
-
+                */
                 alumno.Curso = curso;
 
                 Lista.Add(alumno);
@@ -43,7 +43,7 @@ namespace Ejercicio06CentroEscolar
 
             return creado;
         }
-        private bool registrado (string curso) // Esto es para comprobar que exista el curso en el que lo quiero matricular
+        /*private bool registrado (string curso) // Esto es para comprobar que exista el curso en el que lo quiero matricular
         {
             bool registrado = false;
             tCurso aux;
@@ -53,7 +53,7 @@ namespace Ejercicio06CentroEscolar
             }
 
             return registrado;
-        }
+        }*/
         public bool borrarAlumno(string nombre)
         {
             bool borrado = false;
