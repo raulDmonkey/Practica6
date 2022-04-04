@@ -1,0 +1,36 @@
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.csprojAssemblyReference.cache
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\ejercicio06CentroEscolar.fCursos.resources
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\ejercicio06CentroEscolar.fInicial.resources
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.Properties.Resources.resources
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.csproj.GenerateResource.cache
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\bin\Debug\Ejercicio06CentroEscolar.exe.config
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\bin\Debug\Ejercicio06CentroEscolar.exe
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\bin\Debug\Ejercicio06CentroEscolar.pdb
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.exe
+C:\Users\David\Desktop\Curso 2019 - 2020\Programacion\Ejercicios\Hechos\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.pdb
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\bin\Debug\Ejercicio06CentroEscolar.exe.config
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\bin\Debug\Ejercicio06CentroEscolar.exe
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\bin\Debug\Ejercicio06CentroEscolar.pdb
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.csproj.AssemblyReference.cache
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.fInicial.resources
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.Properties.Resources.resources
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.csproj.GenerateResource.cache
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.csproj.CoreCompileInputs.cache
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.exe
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.pdb
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.fAlumnos.resources
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.fCurso.resources
+C:\Users\Raul\Desktop\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.fProfesores.resources
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\bin\Debug\Ejercicio06CentroEscolar.exe.config
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\bin\Debug\Ejercicio06CentroEscolar.exe
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\bin\Debug\Ejercicio06CentroEscolar.pdb
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.csproj.AssemblyReference.cache
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.fAlumnos.resources
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.fInicial.resources
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.fCurso.resources
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.fProfesores.resources
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.Properties.Resources.resources
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.csproj.GenerateResource.cache
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.csproj.CoreCompileInputs.cache
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.exe
+G:\FP\Programacion\Tema7\Ejercicio06CentroEscolar\Ejercicio06CentroEscolar\obj\Debug\Ejercicio06CentroEscolar.pdb
